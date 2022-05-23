@@ -8,31 +8,38 @@ It is important that you and your colleagues feel that holiday is highly availab
 
 Flexible Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight.  Made Tech will support holiday requests that are up to 4 consecutive weeks, if you wish to take longer than this the additional time may be unpaid. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
 
+## Before you book holiday
+
+As mentioned, we want you to be able to take holiday whenever you feel the need to. We want to ensure teams own their holidays, so in order to ensure that your team and the company are both able to operate to the best of their abilities we'd like you to aim to take the following steps before booking holiday:
+
+* Let your team know about the days you intend to book off and flag any days where other members of the team will also be off.
+* Let the customer know about the days you intend to book off.
+* If your team and the customer have not raised any concerns with your dates add them into CharlieHR and any shared team calendars. 
+* If your team or customer have raised concerns over the requested dates, aim to accomodate this where possible - ideally booking the holiday at a later date if circumstances allow.
+
 ## How long are you taking?
 
-We trust you'll use your best judgement when taking holidays. This is the level of notice we expect when you take your holiday:
+We trust you'll use your best judgement when taking holidays. Below are guidelines of how much notice we'd ideally like you to provide when booking time off, though we understand that his might not be possible in all circumstances:
 
-* **For 1 day** – you must give at least 2 weeks notice
-* **For between 2 days - 2 weeks** – you must give at least 4 weeks notice, and ideally more
-* **For greater than 2 weeks** – you must give 3 months notice
+* **For 1 day** – Please try to give at least 2 weeks notice where possible
+* **For between 2 days - 2 weeks** – Please try give at least 4 weeks notice where possible, and ideally more
+* **For greater than 2 weeks** – Please try to give at least 3 months notice where possible
 
-If you wish to book holiday outside of these guidelines, please make a request to your Head of Capability, Head of Industry, or Head of Business Service who will help you plan for this time off. 
+If you wish to book holiday outside of these guidelines, please make a request to your Head of Capability, Head of Industry, or Head of Business Service who will help you plan for this time off.
+
+## When might the guidance provided not apply?
+
+We understand that personal circumstances might mean you need to take holiday on very short notice, for example when booking time off to take a mental health day. In these sorts of cases please aim to do the following:
+
+* Let your team lead know how long you'll need to be away for and the reason 
+* Book the days into CharlieHR as soon as possible
+* Make sure you've handed over any work that you're able to hand over
 
 ## How will it affect your team?
 
 Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team members or on the company.
 
 We recommend you check with your Delivery Lead whenever you join a new team. Our general guideline on this is that only 1 person from a small team (less than 4) may be away at any one time. For larger teams (5+) please refer to your Delivery or Team Lead to confirm what works best for your team. 
-
-## Who approves holiday?
-
-We want to ensure teams own their holidays and that includes thinking about the commercial impact of taking them. To that affect we need to make sure you've done the following before booking holiday:
-
-* Ask your team members if it's okay with them
-* Ask your clients if it's okay with them
-* Ensure your responsibilities are covered whilst you're away
-* Ensure the Made Tech person leading your client workstream or your line manager provides their agreement
-* Ensure that the holiday is placed into CharlieHR
 
 ## How is holiday approved?
 
